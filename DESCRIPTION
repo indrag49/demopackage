@@ -6,9 +6,9 @@ Imports: Sirpi
 Author: Indranil Ghosh
 Maintainer: Indranil Ghosh <indranilg49 at gmail.com>
 Description: This package consists of all the functions that I have written in order to take this session in R package development in SIRPI.
-BugReports: <github link>
+BugReports: https://github.com/indrag49/demopackage/issues
 License: GPL-2
-URL: <github link>
+URL: https://github.com/indrag49/demopackage
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
