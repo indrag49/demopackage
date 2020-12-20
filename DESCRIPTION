@@ -1,10 +1,10 @@
 Package: demopackage
 Title: A general purpose toolbox that allows us to show off funny functions
 Version: 0.1.0
-Depends: R(>=3.4)
-Imports: Sirpi
+Depends: R(>= 3.4)
+Imports: RColorBrewer
 Author: Indranil Ghosh
-Maintainer: Indranil Ghosh <indranilg49 at gmail.com>
+Maintainer: Indranil Ghosh <indranilg49@gmail.com>
 Description: This package consists of all the functions that I have written in order to take this session in R package development in SIRPI.
 BugReports: https://github.com/indrag49/demopackage/issues
 License: GPL-2
